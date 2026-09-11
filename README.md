@@ -1,6 +1,6 @@
 # Counterfactual Gender Bias in Vision-Language Models
 
-B.Sc. (Hons) Computer Science dissertation project (University of Delhi, 2026) measuring gender bias in **SigLIP 2** and three small open vision-language models (VLMs) with **200 counterfactual prompt pairs**. The two prompts in each pair differ only in their gendered words (*she*/*he*, *her*/*his*, *woman*/*man*, …), and each pair is shown with a gender-neutral image. If a model's answers change when only the gender word changes, that change is evidence of bias.
+Measuring gender bias in **SigLIP 2** and three small open vision-language models (VLMs) with **200 counterfactual prompt pairs**. The two prompts in each pair differ only in their gendered words (*she*/*he*, *her*/*his*, *woman*/*man*, …), and each pair is shown with a gender-neutral image. If a model's answers change when only the gender word changes, that change is evidence of bias.
 
 Everything runs in one notebook, [`gender_bias_vlm.ipynb`](gender_bias_vlm.ipynb), on a single free-tier Colab T4 GPU.
 
@@ -138,6 +138,6 @@ This version fixes bugs and methodological problems in the notebook used for the
 
 ## Author
 
-Kiran, B.Sc. (Hons) Computer Science, University of Delhi.
+Kiran, B.Sc. (Hons) Computer Science, University of Delhi { GRADUATE }
 
 Presented as a poster at the 1st National Young Scholars' Conference (NYSC 2026), University of Delhi.
