@@ -1,0 +1,16 @@
+# Install PyTorch with CUDA first (https://pytorch.org/get-started/locally/); Colab already has it.
+torch
+transformers          # Gemma-4 needs a recent release; see run_info.json for the tested version
+accelerate
+bitsandbytes>=0.46.1  # 4-bit NF4 quantisation
+huggingface_hub
+qwen-vl-utils
+sentencepiece
+pandas
+numpy
+scipy
+openpyxl              # reading the .xlsx dataset
+plotly
+Pillow
+tqdm
+ipython

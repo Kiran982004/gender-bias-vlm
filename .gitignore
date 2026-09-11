@@ -1,0 +1,11 @@
+# Generated results (regenerate by running the notebook)
+outputs/
+bias_pipeline_out/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Secrets
+.env
