@@ -59,8 +59,7 @@ Spreadsheet columns:
 
 Images can be `.jpg`, `.jpeg`, `.png` or `.webp`. A row without an image runs text-only.
 
-**Licensing.** CrowS-Pairs is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), so a published copy of the spreadsheet must keep that licence and credit Nangia et al. (2020). Check each image's licence before publishing the images.
-
+**Licensing.** CrowS-Pairs is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 ## Running
 
 **Google Colab (recommended)**
@@ -138,6 +137,6 @@ This version fixes bugs and methodological problems in the notebook used for the
 
 ## Author
 
-Kiran, B.Sc. (Hons) Computer Science, University of Delhi { GRADUATE }
+Kiran
 
 Presented as a poster at the 1st National Young Scholars' Conference (NYSC 2026), University of Delhi.
